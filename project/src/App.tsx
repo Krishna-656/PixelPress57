@@ -18,7 +18,7 @@ function App() {
             Compress Your Images
           </h2>
           <p className="text-gray-600 text-lg">
-            Reduce file sizes while maintaining quality. Perfect for web optimization.
+            Reduce Image sizes while maintaining quality. Perfect for web optimization.
           </p>
         </div>
 
