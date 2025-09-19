@@ -25,7 +25,7 @@ export const Stats: React.FC<StatsProps> = ({ images }) => {
 
   return (
     <div className="bg-white rounded-2xl shadow-lg p-6 mb-8">
-      <h2 className="text-lg font-semibold text-gray-900 mb-4">Compression Stats</h2>
+      <h2 className="text-lg font-semibold text-gray-900 mb-4">Your Img Stats</h2>
       
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         <div className="text-center">
